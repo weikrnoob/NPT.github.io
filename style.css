@@ -1,0 +1,78 @@
+
+body {
+    margin:0px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    
+}
+#boner {
+    color: black;
+    background-color: rgb(255,145,0);
+    width:fit-content;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: 25px;
+    border-style: solid;
+    border-color: white;
+ }
+#hot {
+    Color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+}
+
+header {
+    display:flex;   
+    justify-content: space-between;
+    height: 70px;
+    background-color: rgb(66, 66, 66); 
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 80px;
+    border-style:solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: white;
+    
+
+}
+.logo {
+    display:flex;
+    align-items: center;
+    
+}
+#the {
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    margin-left: 460px;
+    }
+#ph {
+    display: flex;
+    height: 50px;
+    width: 100px;
+    padding-left: 20px;
+    width: fit-content;
+    }
+.nav-link {
+    margin-right: 40px;
+    Color: white;
+}
+#porn {
+    background-color: rgb(255,145,0);
+    color: black;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#click {
+    background-image: url(./colors.gif);
+    height: 50px;
+    width: 600px;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    margin-left: 380px;
+}

@@ -1,0 +1,48 @@
+#gay {
+    width: 300px;
+    height: 180px;
+    margin-left: 40px;
+    border-style:solid;
+    border-color:white;
+
+}
+#how {
+    width: 300px;
+    height: 180px;
+    margin-left: 20px;
+    border-style:solid;
+    border-color:white;
+    
+}
+#funny {
+    width: 300px;
+    height: 180px;  
+    margin-left: 20px;  
+    border-style:solid;
+    border-color:white;
+}
+#stop {
+    width: 300px;
+    height:180px;
+    margin-left: 20px;
+    border-style:solid;
+    border-color:white;
+
+}
+
+#ph {
+    height: 50px;
+    width: 100px;
+    padding-left: 20px;
+    width: fit-content;
+    display: flex;
+    
+}
+.the {
+    color:white;
+    display: flex;
+}
+header {
+    display:flex;   
+}
+
